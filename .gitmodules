@@ -1,0 +1,6 @@
+[submodule "portabee"]
+	path = portabee
+	url = git@github.com:vsellier/Portabee.git
+[submodule "extruder"]
+	path = extruder
+	url = git@github.com:vsellier/romscraj-extruder.git
