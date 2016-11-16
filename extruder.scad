@@ -1,6 +1,7 @@
+// Disclaimer : Use only for preview. The render is broken due to the dirty imported stls
 $fn=180;
 
-%color("red", 0.8) {
+color("red", 0.8) {
     translate([78,25,27]) {
         rotate([90,180,-90]) {
             import("extruder/idler-block.stl");
