@@ -8,9 +8,6 @@ rotate([0,-90,0]) {
 
         // carre
         translate([7,40,0]) {
-            rotate([0,0,15]) {
-//                #cylinder(d=9, h=7, $fn=4, center=true);
-            }
             rotate([0,0,60]) {
                 #cube([8,8,6.5], center=true);
             }
