@@ -1,6 +1,6 @@
 rotate([0,-90,0]) {
     difference() {
-        linear_extrude(15) {
+        linear_extrude(18   ) {
             polygon(
               points=[[0,0],[0,47],[12,47],[23,31],[12,0]]
             );
